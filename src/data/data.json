@@ -1,0 +1,114 @@
+[
+  {
+    "phaseId": 1,
+    "phaseQuestion": "Welche Risikobereitschaft bringst du mit?",
+    "phaseSubQuestion": "",
+    "items": [
+      {
+        "id": 1,
+        "qId": 1,
+        "type": 1,
+        "question": "Um dein Risikoprofil bestimmen zu können bitten wir dich die folgenden Fragen ehrlich und spontan zu beantworten.",
+        "question2": ""
+      },
+      {
+        "id": 2,
+        "qId": 2,
+        "type": 2,
+        "question": "Bei meiner Geldanlage achte ich vorrangig auf Rendite.",
+        "question2": ""
+      },
+      {
+        "id": 3,
+        "qId": 3,
+        "type": 2,
+        "question": "Die Gefahr, einen Teil meines Vermögens zu verlieren, belastet mich stark.",
+        "question2": ""
+      },
+      {
+        "id": 4,
+        "qId": 4,
+        "type": 2,
+        "question": "Die Sicherheit einer Geldanlage ist mir am allerwichtigsten.",
+        "question2": ""
+      },
+      {
+        "id": 5,
+        "qId": 5,
+        "type": 2,
+        "question": "Bei Geldangelegenheiten gehe ich nur ungern Risiken ein.",
+        "question2": ""
+      },
+      {
+        "id": 6,
+        "qId": 6,
+        "type": 2,
+        "question": "Auch kleine Verluste machen mich schon nervös.",
+        "question2": ""
+      }
+    ]
+  },
+  {
+    "phaseId": 2,
+    "phaseQuestion": "Lotterie-Spiel",
+    "phaseSubQuestion": "Für welche Option entscheidest du dich?",
+    "items": [
+      {
+        "id": 1,
+        "qId": 7,
+        "type": 1,
+        "question": "Den ersten Teil hast du geschafft! Bitte spiele noch das Lotterie-Spiel. Stell dir vor, du nimmst an einem einfachen Entscheidungsspiel teil. Du wählst zwischen zwei Optionen mit unterschiedlichen Auszahlungen aus. Es gibt keine &#34;richtige&#34; Entscheidung – deine Wahl hilft uns lediglich dabei, deine persönliche Risikoneigung besser zu verstehen.",
+        "question2": ""
+      },
+      {
+        "id": 2,
+        "qId": 8,
+        "type": 3,
+        "question": "Option A: Du erhältst garantiert 2€.",
+        "question2": "Option B: Mit 50 % Wahrscheinlichkeit erhältst du 0 €, mit 50 % Wahrscheinlichkeit 16€."
+      },
+      {
+        "id": 3,
+        "qId": 9,
+        "type": 3,
+        "question": "Option A: Du erhältst garantiert 4€.",
+        "question2": "Option B: Mit 50 % Wahrscheinlichkeit erhältst du 0 €, mit 50 % Wahrscheinlichkeit 16€."
+      },
+      {
+        "id": 4,
+        "qId": 10,
+        "type": 3,
+        "question": "Option A: Du erhältst garantiert 6€.",
+        "question2": "Option B: Mit 50 % Wahrscheinlichkeit erhältst du 0 €, mit 50 % Wahrscheinlichkeit 16€."
+      },
+      {
+        "id": 5,
+        "qId": 11,
+        "type": 3,
+        "question": "Option A: Du erhältst garantiert 8€.",
+        "question2": "Option B: Mit 50 % Wahrscheinlichkeit erhältst du 0 €, mit 50 % Wahrscheinlichkeit 16€."
+      },
+      {
+        "id": 6,
+        "qId": 12,
+        "type": 3,
+        "question": "Option A: Du erhältst garantiert 10€.",
+        "question2": "Option B: Mit 50 % Wahrscheinlichkeit erhältst du 0 €, mit 50 % Wahrscheinlichkeit 16€."
+      },
+      {
+        "id": 7,
+        "qId": 13,
+        "type": 3,
+        "question": "Option A: Du erhältst garantiert 12€.",
+        "question2": "Option B: Mit 50 % Wahrscheinlichkeit erhältst du 0 €, mit 50 % Wahrscheinlichkeit 16€."
+      },
+      {
+        "id": 8,
+        "qId": 14,
+        "type": 1,
+        "question": "Den zweiten Teil hast du geschafft! Im letzten Teil wird dir ein Portfolio vorgeschlagen, basierend auf deiner Risikoeinschätzung. Außerdem kannst du dort bei Bedarf zwischen verschiedenen Risikostufen wechseln. Das ist aber kein muss.",
+        "question2": ""
+      }
+    ]
+  }
+]

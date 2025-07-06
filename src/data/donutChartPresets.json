@@ -1,0 +1,32 @@
+[
+  {
+    "riskLevel": 1,
+    "riskValue": 10,
+    "riskTolerance": "Geringe Risikobereitschaft",
+    "riskState": "Sehr Konservativ"
+  },
+  {
+    "riskLevel": 2,
+    "riskValue": 25,
+    "riskTolerance": "Mäßige Risikobereitschaft",
+    "riskState": "Konservativ"
+  },
+  {
+    "riskLevel": 3,
+    "riskValue": 50,
+    "riskTolerance": "Ausgeprägte Risikobereitschaft",
+    "riskState": "Ausgewogen"
+  },
+  {
+    "riskLevel": 4,
+    "riskValue": 75,
+    "riskTolerance": "Hohe Risikobereitschaft",
+    "riskState": "Wachstum"
+  },
+  {
+    "riskLevel": 5,
+    "riskValue": 90,
+    "riskTolerance": "Sehr hohe Risikobereitschaft",
+    "riskState": "Riskofreudig"
+  }
+]
